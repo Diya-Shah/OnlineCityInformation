@@ -1,0 +1,68 @@
+.addplace-box{
+    /* height: 770px; */
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("images/background.jpg");
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.container-addplace{
+    font-family: sans-serif;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    width:400px;
+    transform: translate(-50% , -50%);
+    text-align: center;
+    align-items: center;
+    z-index: 999;
+    padding: 20px 20px;
+    /* background: rgba(255,255,255,0.04); */
+    background: rgba(255,255,255,0.94);
+    /* box-shadow: -1px 4px 28px 0px rgba(0,0,0,0.75); */
+}
+strong{
+    float:left;
+}
+#placeimage,#placename,#placedetail,#placelocation,#placelocationCoordinates{
+    width:300px;
+    float:left;
+    display: flex;
+}
+.link a{
+    color: black;
+    /* text-decoration: none; */
+}
+
+.container-addplace header{
+    color: black;
+    font-size: 33px;
+    /* font-weight: 600; */
+    margin: 0 0 35px 0;
+    font-family: sans-serif;
+
+}
+
+input[type='submit']{
+    color: #3363ff;
+    background-color: #d8e0fd;
+    border: 1px solid black;
+    color: black;
+    width: 200px;
+    margin-left: 20%;
+    font-size: 18px;
+}
+
+input[type='submit']:hover{
+    background-color: #c2cffc;
+    
+}
+#addplace{
+    margin-left: 0px;
+    height:45px;
+}
+.addplace-back{
+    color:black;
+    font-size:1.5rem;
+    margin-top: 45%;
+}

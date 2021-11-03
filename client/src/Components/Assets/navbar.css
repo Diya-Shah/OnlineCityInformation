@@ -1,0 +1,17 @@
+#nav{
+    height:80px;
+    background-color: blue;
+}
+#img{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#ul{
+    margin-left:650px;
+}
+#ul li{
+    margin-left: 20px;
+}
+#ul li a {
+    font-size:1.3rem;
+}

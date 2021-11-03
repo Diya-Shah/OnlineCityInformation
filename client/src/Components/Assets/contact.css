@@ -1,0 +1,29 @@
+.contact{
+    height: 500px;
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("images/background.jpg");
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#table1{
+    width:30%;
+    height:300px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    text-align: center;
+    z-index: 999;
+    padding: 20px 20px;
+    /* background: rgba(255,255,255,0.04); */
+    background: rgba(255,255,255,0.94);
+    /* box-shadow: -1px 4px 28px 0px rgba(0,0,0,0.75); */
+}
+#query textarea{
+    margin-left: -10px;
+}
+#submit-btm input[type='submit']{
+    margin-left:0px;
+}

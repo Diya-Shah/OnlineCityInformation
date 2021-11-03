@@ -1,0 +1,12 @@
+.footer{
+    /* margin-top: 0px; */
+    background-image:url('images/footer_bg.jpg');
+    height:200px;
+    color:black;
+}
+#img1{
+    top:530px; height:40px; width:40px;
+}
+#img2{
+    top:530px; height:40px; width:40px;
+}

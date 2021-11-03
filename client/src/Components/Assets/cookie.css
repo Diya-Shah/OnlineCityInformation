@@ -1,0 +1,11 @@
+.cookie{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("images/bg7.jpg");
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#pcookie{
+    width:900px;
+    margin-left:15%;
+}

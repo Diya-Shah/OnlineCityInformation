@@ -1,0 +1,29 @@
+.container-manageplace{
+    height: 650px;
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("images/background.jpg");
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.back3{
+    color:black;
+    font-size:1.5rem;
+    margin-top: 5%;
+}
+.table-place{
+    width:700px;
+    height:250px;
+}
+.clm1,.clm2,.clm3,.clm4,.clm5{
+    width:0.1%;
+    height:0.1%;
+}
+#city-strong{
+    margin-left: 40%;
+    font-size:1.3rem;
+}
+#select3{
+    margin-top: 0.3%;
+    margin-left: -40%;
+}
